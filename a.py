@@ -1,0 +1,1 @@
+print("Mere bagal mein chutiya baitha hai.")
